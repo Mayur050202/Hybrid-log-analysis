@@ -1,0 +1,2000 @@
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
+Jun 14 15:16:01 ubuntu sshd: Invalid user admin from 192.168.1.50 port 54321 ssh2
+Jun 14 15:16:05 ubuntu sshd: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.1.50
+Jun 14 15:17:10 ubuntu sshd: Accepted password for root from 10.0.0.4 port 38291 ssh2
+Jun 14 15:18:22 ubuntu combat: User root changed permissions on /etc/shadow
+Jun 14 15:20:01 ubuntu sshd: Invalid user anonymous from 172.16.4.22 port 9999 ssh2
