@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.Python
+.venv/
+venv/
+env/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Generated runtime data and reports
+raw_logs/
+processed_logs/
+data/
+*.log
+*.csv
+*.joblib
+*.pkl
+executive_incident_report.txt
+Calibrated_Incident_Report.md
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
